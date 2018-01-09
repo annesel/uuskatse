@@ -1,7 +1,9 @@
 ---
 title       : Insert the chapter title here
 description : Insert the chapter description here
+attachments : requrements.r
 ---
+
 ## Milline dplyr versioon siin on?
 
 ```yaml
